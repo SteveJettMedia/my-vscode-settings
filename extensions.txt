@@ -1,0 +1,23 @@
+Extensions installed on WSL: Ubuntu-24.04:
+alefragnani.project-manager
+christian-kohler.path-intellisense
+coenraads.bracket-pair-colorizer-2
+dbaeumer.vscode-eslint
+donjayamanne.githistory
+eamodio.gitlens
+ecmel.vscode-html-css
+esbenp.prettier-vscode
+figma.figma-vscode-extension
+formulahendry.auto-rename-tag
+gruntfuggly.todo-tree
+kisstkondoros.vscode-gutter-preview
+ms-vscode-remote.remote-wsl
+naumovs.color-highlight
+phoenisx.cssvar
+pranaygp.vscode-css-peek
+ritwickdey.liveserver
+ronnidc.nunjucks
+wayou.vscode-todo-highlight
+xabikos.javascriptsnippets
+zignd.html-css-class-completion
+
